@@ -108,7 +108,7 @@ function black() {
     "__________: good to the last drop.",
     "__________: kid tested, mother approved.",
     "__________? There's an app for that.",
-    "__________: is it easy or difficult?"
+    "__________: Is it easy or difficult?",
   ];
 }
 
