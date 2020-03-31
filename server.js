@@ -8,7 +8,7 @@ var _ = require('underscore');
 var bodyParser = require('body-parser')
 var methodOverride = require('method-override')
 
-server.listen(process.env.PORT || 3000);
+server.listen(process.env.PORT || 8080);
 
 app.set('view engine', 'ejs');
 app.set('view options', { layout: false });
