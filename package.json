@@ -23,7 +23,7 @@
     "redis-url": "0.1.0",
     "request": "~2.88.2",
     "socket.io": "^2.3.0",
-    "underscore": "~1.4.2"
+    "underscore": "~1.12.1"
   },
   "subdomain": "nah-amir-rajan",
   "engines": {
