@@ -18,7 +18,7 @@
     "jasmine-node": "~1.0.26",
     "method-override": "^3.0.0",
     "oauth": "~0.9.10",
-    "qs": "^6.9.3",
+    "qs": "^6.9.7",
     "redis": "~0.8.4",
     "redis-url": "0.1.0",
     "request": "~2.88.2",
